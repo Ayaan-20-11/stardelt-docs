@@ -80,6 +80,7 @@ const sidebars: SidebarsConfig = {
         'operations/production',
         'operations/backups',
         'operations/rotating-secrets',
+        'operations/troubleshooting',
       ],
     },
     'roadmap',
