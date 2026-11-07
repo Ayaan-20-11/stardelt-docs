@@ -139,7 +139,7 @@ function HomepageHero(): ReactNode {
         <div className={styles.heroVisual}>
           <img
             className={styles.heroScreenshot}
-            src="/img/nova-overview.png"
+            src="/img/nova/overview.png"
             alt="stardelt Nova overview: catalogs, recent activity and the platform apps"
             width={1440}
             height={900}
@@ -336,7 +336,7 @@ spec:
     body:
       "Dashboards in the team's own space, with the same sign-in and the same permissions.",
     img: '/img/nova/dashboards.png',
-    alt: 'Nova dashboards view showing team dashboards in their own space.',
+    alt: 'Nova showing the Mobility Operations dashboard embedded from Superset.',
     code: null,
   },
 ];
